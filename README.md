@@ -1,7 +1,7 @@
 # 🌍 Multilingual Mandi
 
-A multilingual digital mandi (marketplace) concept built as part of the **26 January Prompt Challenge**.
-This project focuses on breaking language barriers by enabling users to interact with a mandi platform in multiple Indian languages.
+- A multilingual digital mandi (marketplace) concept built as part of the **26 January Prompt Challenge**.
+- This project focuses on breaking language barriers by enabling users to interact with a mandi platform in multiple Indian languages.
 
 ---
 
